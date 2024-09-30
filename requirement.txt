@@ -1,4 +1,4 @@
-# Requirements:
+Requirements:
 Python 3.8+
 LLaMA 3.1
 ChromaDB
