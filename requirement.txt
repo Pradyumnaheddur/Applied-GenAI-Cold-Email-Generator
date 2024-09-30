@@ -2,5 +2,8 @@ Requirements:
               Python 3.8+
               LLaMA 3.1
               ChromaDB
+              bs4
+              groq
+              langchain-groq
               LangChain
               Streamlit
